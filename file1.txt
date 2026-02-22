@@ -2,3 +2,4 @@ Hello world!!!
 123
 This is the right state of file1
 This is another row in file1
+This is the new row in file1
